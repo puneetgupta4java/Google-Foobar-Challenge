@@ -6,5 +6,5 @@ Checkout journal.md for the overall story with each level.
 
 Inside each level is a challenge folder with a problem file describing the challenge and constraints, and my solution to the challenge.
 
-Level 1
-Minion Task Scheduling
+Level 1:
+Minion Squares area Scheduling (Detailed question is present with the solution in the repository)
